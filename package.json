@@ -1,0 +1,16 @@
+{
+  "name": "memo-app-sampel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^27.1.0",
+    "markdown-it": "^13.0.2"
+  }
+}
